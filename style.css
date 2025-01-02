@@ -6,7 +6,7 @@
 
 /* Navbar Start */
 .nav-bg-img{
-background-image: url(image/navbar/bg-image.jpg);
+background-image: url(bg-image.jpg);
 background-size: cover;
 background-position:center;
 height: 110vh;
@@ -17,7 +17,7 @@ background-blend-mode: overlay;
 
 /* Sale Section Start */
 main{
-background-image: url(image/sales/image.jpg);
+background-image: url(sales.jpg);
 background-size: cover;
 background-position:center;
 height: 100vh;
